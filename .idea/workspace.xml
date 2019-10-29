@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5310512a-bd47-4fa2-9205-aaa13c150c08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +13,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/wsjung0516.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectId" id="1SsMkzRmTmktvYeHJYbx9Infffb" />
   <component name="PropertiesComponent">
@@ -61,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572347996866</updated>
-      <workItem from="1572347998193" duration="1140000" />
+      <workItem from="1572347998193" duration="1384000" />
     </task>
     <servers />
   </component>
